@@ -65,7 +65,7 @@ AI-powered analysis runs **asynchronously at submission time** — user latency 
 
 | Submission Page | Moderation Dashboard |
 | --- | --- |
-| ![Submission Page](https://kommodo.ai/i/Kcd8YnwDtf8KUayyXaqB) | ![Dashboard](https://kommodo.ai/i/buWFRL0YYt3NSjnYxphx) |
+| ![Submission Page]([https://kommodo.ai/i/Kcd8YnwDtf8KUayyXaqB](https://plain-apac-prod-public.komododecks.com/202607/29/Kcd8YnwDtf8KUayyXaqB/image.png)) | ![Dashboard](https://kommodo.ai/i/buWFRL0YYt3NSjnYxphx) |
 
 | Public Wall | Embeddable Widget Generator |
 | --- | --- |
