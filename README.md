@@ -65,15 +65,15 @@ AI-powered analysis runs **asynchronously at submission time** — user latency 
 
 | Submission Page | Moderation Dashboard |
 | --- | --- |
-| ![Submission Page](https://placehold.co/1200x800/f8fafc/0f172a?text=Submission+Page) | ![Dashboard](https://placehold.co/1200x800/fffbeb/0f172a?text=Moderation+Dashboard) |
+| ![Submission Page](https://kommodo.ai/i/Kcd8YnwDtf8KUayyXaqB) | ![Dashboard](https://kommodo.ai/i/buWFRL0YYt3NSjnYxphx) |
 
 | Public Wall | Embeddable Widget Generator |
 | --- | --- |
-| ![Public Wall](https://placehold.co/1200x800/eff6ff/0f172a?text=Public+Wall) | ![Widget Generator](https://placehold.co/1200x800/ecfdf5/0f172a?text=Widget+Generator) |
+| ![Public Wall](https://kommodo.ai/i/hsGabvVidl3nB4EJIu9O) | ![Widget Generator](https://kommodo.ai/i/KrBQUdmXQCFnybTz5una) |
 
 | Mobile View | Dark Widget Embed |
 | --- | --- |
-| ![Mobile](https://placehold.co/390x844/f1f5f9/0f172a?text=Mobile+View) | ![Dark Widget](https://placehold.co/500x600/020617/e2e8f0?text=Dark+Embed) |
+| ![Mobile](https://kommodo.ai/i/JI3FS3MarRI5zPaZMai2) | ![Dark Widget](https://kommodo.ai/i/k9ALOhDmuwdYjoV2UxT4) |
 
 ---
 
