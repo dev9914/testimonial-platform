@@ -11,7 +11,7 @@ const app: Application = express();
 
 const corsOriginsRaw =
   process.env.CORS_ORIGINS ||
-  "http://localhost:5173,http://localhost:5174,http://localhost:5175,https://testimonial-platform-git-master-devanands-projects-3401b67c.vercel.app";
+  "http://localhost:5173,http://localhost:5174,http://localhost:5175,https://testimonial-platform-gamma.vercel.app";
 const corsOrigins = corsOriginsRaw
   .split(",")
   .map((s) => s.trim())
