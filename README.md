@@ -65,15 +65,15 @@ AI-powered analysis runs **asynchronously at submission time** — user latency 
 
 | Submission Page | Moderation Dashboard |
 | --- | --- |
-| ![Submission Page](https://kommodo.ai/i/Kcd8YnwDtf8KUayyXaqB) | ![Dashboard](https://kommodo.ai/i/buWFRL0YYt3NSjnYxphx) |
+| ![Submission Page](https://plain-apac-prod-public.komododecks.com/202607/29/Kcd8YnwDtf8KUayyXaqB/image.png) | ![Dashboard](https://plain-apac-prod-public.komododecks.com/202607/29/buWFRL0YYt3NSjnYxphx/image.png) |
 
 | Public Wall | Embeddable Widget Generator |
 | --- | --- |
-| ![Public Wall](https://kommodo.ai/i/hsGabvVidl3nB4EJIu9O) | ![Widget Generator](https://kommodo.ai/i/KrBQUdmXQCFnybTz5una) |
+| ![Public Wall](https://plain-apac-prod-public.komododecks.com/202607/29/hsGabvVidl3nB4EJIu9O/image.png) | ![Widget Generator](https://plain-apac-prod-public.komododecks.com/202607/29/KrBQUdmXQCFnybTz5una/image.png) |
 
 | Mobile View | Dark Widget Embed |
 | --- | --- |
-| ![Mobile](https://kommodo.ai/i/JI3FS3MarRI5zPaZMai2) | ![Dark Widget](https://kommodo.ai/i/k9ALOhDmuwdYjoV2UxT4) |
+| ![Mobile](https://plain-apac-prod-public.komododecks.com/202607/29/JI3FS3MarRI5zPaZMai2/image.png) | ![Dark Widget](https://plain-apac-prod-public.komododecks.com/202607/29/k9ALOhDmuwdYjoV2UxT4/image.png) |
 
 ---
 
